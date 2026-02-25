@@ -34,12 +34,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### 🤖 AI / ML Stack
+---
+
+## 📊 Data Science & Visualization
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+- SQL for Data Querying  
+- NumPy for Numerical Computing  
+- Pandas for Data Manipulation  
+- Matplotlib & Seaborn for Data Visualization  
+
+---
+
+## 🤖 AI / ML
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
 </p>
+
+- Machine Learning Algorithms  
+- Model Evaluation & Optimization  
+- AI-driven Application Development  
 
 ---
 
@@ -50,10 +74,6 @@
   <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Networks-orange?style=for-the-badge"/>
 </p>
-
-- Object Oriented Programming  
-- Database Management Systems  
-- Computer Networks  
 
 ---
 
@@ -66,6 +86,6 @@
 
 ---
 
-🔥 Passionate about building intelligent systems  
-🎯 Preparing for top product-based companies  
-🚀 Always learning, always improving
+🔥 Passionate about Backend + AI Systems  
+🎯 Preparing for Top Product-Based Companies  
+🚀 Always Learning. Always Building.
