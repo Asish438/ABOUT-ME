@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/OOPS-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Networks-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-red?style=for-the-badge"/>
 </p>
 
 ---
